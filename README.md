@@ -1,1 +1,3 @@
-HSL_Service_Locator
+A program that implements HSL's service location API, using ASP.NET Core and MongoDB
+
+
